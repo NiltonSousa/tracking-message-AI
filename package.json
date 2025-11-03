@@ -1,14 +1,14 @@
 {
-  "name": "senior-connect",
+  "name": "tracking-message-AI",
   "version": "1.0.0",
   "description": "This chatbot is designed to defend and promote São Paulo Futebol Clube through logical arguments, data-driven reasoning, and contextual debate. Built on a Retrieval-Augmented Generation (RAG) model, it combines a vast knowledge base about the club’s history, achievements, players, rivalries, and statistics with real-time argumentation skills",
-  "homepage": "https://github.com/NiltonSousa/senior-connect#readme",
+  "homepage": "https://github.com/NiltonSousa/Tracking Message AI#readme",
   "bugs": {
-    "url": "https://github.com/NiltonSousa/senior-connect/issues"
+    "url": "https://github.com/NiltonSousa/Tracking Message AI/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiltonSousa/senior-connect.git"
+    "url": "git+https://github.com/NiltonSousa/Tracking Message AI.git"
   },
   "license": "ISC",
   "author": "Nilton Sousa",
